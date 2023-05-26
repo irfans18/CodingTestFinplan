@@ -1,0 +1,7 @@
+chatgpt,
+python reverse loop,
+python regex,
+python sys.argv,
+python search in string,
+python search in list,
+python check password,
