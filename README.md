@@ -1,0 +1,2 @@
+# CodingTestFinplan
+ TES LOGIKA
