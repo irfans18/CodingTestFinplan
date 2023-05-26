@@ -14,7 +14,7 @@ Output : 9
 
 
 def find_smallest_positive_missing(numbers):
-    smallest = 1
+    smallest = min(numbers)
 
     for num in sorted(numbers):
         if num == smallest:
